@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drona-dashboard/static/css/main.2cce8147.chunk.css",
+    "main.js": "/drona-dashboard/static/js/main.599241e2.chunk.js",
+    "main.js.map": "/drona-dashboard/static/js/main.599241e2.chunk.js.map",
+    "runtime~main.js": "/drona-dashboard/static/js/runtime~main.4df67040.js",
+    "runtime~main.js.map": "/drona-dashboard/static/js/runtime~main.4df67040.js.map",
+    "static/js/2.c54e7202.chunk.js": "/drona-dashboard/static/js/2.c54e7202.chunk.js",
+    "static/js/2.c54e7202.chunk.js.map": "/drona-dashboard/static/js/2.c54e7202.chunk.js.map",
+    "index.html": "/drona-dashboard/index.html",
+    "precache-manifest.ddcf2f31435cc59a0209af5178eb828a.js": "/drona-dashboard/precache-manifest.ddcf2f31435cc59a0209af5178eb828a.js",
+    "service-worker.js": "/drona-dashboard/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/drona-dashboard/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/drona-dashboard/static/media/logo.5d5d9eef.svg"
+  }
+}
