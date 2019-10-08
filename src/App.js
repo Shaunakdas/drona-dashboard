@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import Homepage from './Homepage.js';
+import Trial from './Trial.js';
 
 function App() {
   return (
-    <Homepage />
+    <Trial />
   );
 }
 
